@@ -1,0 +1,23 @@
+name: Latido
+
+# GitHub apaga los Actions programados de un repo sin actividad en 60 días. Como estado.json solo
+# cambia cuando cae algo, esto hace un commit al mes para que el aviso no se desactive solo.
+on:
+  schedule:
+    - cron: "17 6 1 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  latido:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          date -u +%F > latido.txt
+          git config user.name "estado-webs"
+          git config user.email "estado-webs@users.noreply.github.com"
+          git add latido.txt
+          git commit -m "latido $(date -u +%F)" && git push || true

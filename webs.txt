@@ -1,0 +1,6 @@
+# Una web por línea: nombre y URL. Cuenta como «arriba» si responde 2xx o 3xx en menos de 20 s
+# (dos intentos seguidos, para no avisar por un tropiezo de red).
+majaus.es      https://majaus.es/
+setensa.com    https://setensa.com/
+xinpun.com     https://xinpun.com/
+flopshare.com  https://flopshare.com/healthz

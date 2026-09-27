@@ -1,0 +1,26 @@
+{
+  "majaus.es": {
+    "arriba": true,
+    "url": "https://majaus.es/",
+    "detalle": "HTTP 200",
+    "desde": "2026-09-27 13:56 UTC"
+  },
+  "setensa.com": {
+    "arriba": true,
+    "url": "https://setensa.com/",
+    "detalle": "HTTP 200",
+    "desde": "2026-09-27 13:56 UTC"
+  },
+  "xinpun.com": {
+    "arriba": true,
+    "url": "https://xinpun.com/",
+    "detalle": "HTTP 200",
+    "desde": "2026-09-27 13:56 UTC"
+  },
+  "flopshare.com": {
+    "arriba": true,
+    "url": "https://flopshare.com/healthz",
+    "detalle": "HTTP 200",
+    "desde": "2026-09-27 13:56 UTC"
+  }
+}
