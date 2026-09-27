@@ -4,4 +4,3 @@ majaus.es      https://majaus.es/
 setensa.com    https://setensa.com/
 xinpun.com     https://xinpun.com/
 flopshare.com  https://flopshare.com/healthz
-prueba-aviso   https://majaus.es/estado-prueba.txt

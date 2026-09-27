@@ -22,11 +22,5 @@
     "url": "https://flopshare.com/healthz",
     "detalle": "HTTP 200",
     "desde": "2026-09-27 13:56 UTC"
-  },
-  "prueba-aviso": {
-    "arriba": true,
-    "url": "https://majaus.es/estado-prueba.txt",
-    "detalle": "HTTP 200",
-    "desde": "2026-09-27 13:58 UTC"
   }
 }
