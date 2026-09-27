@@ -24,9 +24,9 @@
     "desde": "2026-09-27 13:56 UTC"
   },
   "prueba-aviso": {
-    "arriba": false,
+    "arriba": true,
     "url": "https://majaus.es/estado-prueba.txt",
-    "detalle": "HTTP 404",
-    "desde": "2026-09-27 13:57 UTC"
+    "detalle": "HTTP 200",
+    "desde": "2026-09-27 13:58 UTC"
   }
 }
